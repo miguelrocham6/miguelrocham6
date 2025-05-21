@@ -177,7 +177,7 @@
 
 
 <!-- ending-->
-<a href="https://i.gifer.com/Z5aE.gif"><img src="https://i.gifer.com/Z5aE.gif" alt="Fallout GIF" style="width:1920; height:auto"/></a>
+<a href="https://i.gifer.com/Z5aE.gif"><img src="https://i.gifer.com/Z5aE.gif" alt="Fallout GIF" style="width:1920; height:1080"/></a>
 
 <img src="https://f8n-production-collection-assets.imgix.net//0xbec18D6D1758a8620887A378b8b8950B1e6ac328/1/nft.gif?q=70&fnd_key=v1" width="1920" height=0.4/>
 
