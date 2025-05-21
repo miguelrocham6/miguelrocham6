@@ -177,7 +177,7 @@
 
 
 <!-- ending-->
-<a href="https://i.gifer.com/Z5aE.gif"><img src="https://i.gifer.com/Z5aE.gif" alt="Fallout GIF" style="width:1920; height:1080"/></a>
+<a href="https://images.steamusercontent.com/ugc/802114790894531555/045F7A07B4272EF961134A63045A60BCB9A4CEC3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Fallout GIF" style="width:1920; height:1080"/></a>
 
 <img src="https://f8n-production-collection-assets.imgix.net//0xbec18D6D1758a8620887A378b8b8950B1e6ac328/1/nft.gif?q=70&fnd_key=v1" width="1920" height=0.4/>
 
