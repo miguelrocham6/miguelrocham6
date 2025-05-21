@@ -33,7 +33,7 @@
 
 <!-- Greeting -->
 </h1>
-<h1 align="center">Namaste 🙏 I'm Joshua Thadi</h1>
+<h1 align="center">Hi there!, I'm Miguel Rocha 👋</h1>
 
 <h4 align="left">🌟I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in software development while actively exploring emerging technologies. I am particularly passionate about Artificial Intelligence and Machine Learning, and I aim to specialize in these fields as a long-term career path.</h4>
 
@@ -71,31 +71,20 @@
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 <h4> 
-  🌱 I am currently working on and developing my programming skills.</br>
- 🔭 I worked on .Net Framework and experience in Model-View-Controller.</br>
- 💬 Skills I acquire in programming languages such as Python, SQL.</br>
- ⚡ Interest in Artifical Intelligence, Machine Learning, Deep Learning, Data Science, Automation, BlockChain development.</br>
+ 🌱 I am currently working on and developing my programming skills.</br>
+ 💬 Skills I acquire in programming languages such as Python, SQL, Java </br>
+ ⚡ Interest in Science Computation Artifical Intelligence, Machine Learning, Data Science, Automation.</br>
  ✨ I only like perfection.</h4> <div align="left"> 
 
 
   <h3>🧲 Connect me :</h3>
-<a href="mailto:thadijoshua@gmail.com">
+<a href="miguellrochaxavier@gmail.com">
   <img width="60px" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" /></a> 
   
-  <a href="https://www.linkedin.com/in/joshuathadi?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFxu5Jm6MQU2szDeuwmZmyQ%3D%3D" target="_blank">
+  <a href="https://www.linkedin.com/in/miguelrochaxavier" target="_blank">
     <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
     
-  <a href="https://masterjudah-bashfolio.netlify.app/" target="_blank">
-    <img width="58px" src="https://static-00.iconduck.com/assets.00/bash-icon-1792x2048-492kvjo8.png" alt="Portfolio Badge"></a>
 
-<a href="https://open.spotify.com/playlist/4FMOBw7eopNczgfzspCvIP" target="_blank">
-  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Spotify_icon.svg/1982px-Spotify_icon.svg.png" alt="Spotify Badge"></a>
-
-<a href="https://www.youtube.com/playlist?list=PLAoJfvFSn6qi_8eTKMXdKGMQGQfYOV54n" target="_blank">
-  <img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/YouTube_play_button_square_%282013-2017%29.svg/2048px-YouTube_play_button_square_%282013-2017%29.svg.png" alt="YouTube Badge"></a>
-
-
-  
   <!--<a href="https://joshuathadi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
 -->
 </div></h4>
@@ -116,8 +105,8 @@
 <h3 align="center">🌱 Github Status</h3>
 <br>
 <div align="center">
-  <img width="435" src="https://github-readme-stats.vercel.app/api?username=JoshuaThadi&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
-  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuathadi&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img width="435" src="https://github-readme-stats.vercel.app/api?username=MiguelRocha&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelrochaxavier&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
