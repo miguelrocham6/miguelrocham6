@@ -47,14 +47,14 @@
 
 
 <!-- Total Stars -->
-<a href="https://github.com/joshuathadi?tab=repositories&sort=stargazers" target="_blank">
+<a href="https://github.com/miguelrochaxavier?tab=repositories&sort=stargazers" target="_blank">
   <img alt="Total Stars" title="Total stars on GitHub"
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&logoColor=white&label=Stars&style=for-the-badge&color=bf616a&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/joshuathadi" /></a>
+       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&logoColor=white&label=Stars&style=for-the-badge&color=bf616a&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/miguelrochaxavier" /></a>
 
 <!-- Followers -->
-<a href="https://github.com/joshuathadi?tab=followers" target="_blank">
+<a href="https://github.com/miguelrochaxavier?tab=followers" target="_blank">
   <img alt="Followers" title="Follow me on GitHub"
-       src="https://custom-icon-badges.herokuapp.com/github/followers/joshuathadi?logo=person-add&logoColor=white&label=Followers&style=for-the-badge&color=5e81ac" /></a>
+       src="https://custom-icon-badges.herokuapp.com/github/followers/miguelrochaxavier?logo=person-add&logoColor=white&label=Followers&style=for-the-badge&color=5e81ac" /></a>
 </div>
 
 
