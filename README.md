@@ -21,8 +21,8 @@
 
 
 <!-- MasterHead -->
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+<a href="https://img.gs/czjpqfbdkz/800/https://raw.githubusercontent.com/kpberry/image-to-ascii/8a3fcb63d86ede0e68c916c84e5f0833657b9885/gallery/stvincent_bw.gif">
+  <img src="https://img.gs/czjpqfbdkz/800/https://raw.githubusercontent.com/kpberry/image-to-ascii/8a3fcb63d86ede0e68c916c84e5f0833657b9885/gallery/stvincent_bw.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
 
 
