@@ -21,9 +21,11 @@
 
 
 <!-- MasterHead -->
+<div align="center">
 <a href="https://img.gs/czjpqfbdkz/800/https://raw.githubusercontent.com/kpberry/image-to-ascii/8a3fcb63d86ede0e68c916c84e5f0833657b9885/gallery/stvincent_bw.gif">
   <img src="https://img.gs/czjpqfbdkz/800/https://raw.githubusercontent.com/kpberry/image-to-ascii/8a3fcb63d86ede0e68c916c84e5f0833657b9885/gallery/stvincent_bw.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
+</div>
 
 
 
