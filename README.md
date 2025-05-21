@@ -12,7 +12,7 @@
 <!--
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=80&section=footer"
+    src="https://eportfolio.utm.my/artefact/file/download.php?file=712028&view=178568"
     width="100%" 
   />
 </p>
@@ -68,7 +68,9 @@
  🌱 Atualmente, estou trabalhando e desenvolvendo minhas habilidades de programação.</br>
  💬 Habilidades que adquiri em linguagens de programação como Python, SQL e Java. </br>
  ⚡ Interesse em Ciência da Computação, Inteligência Artificial, Aprendizado de Máquina, Ciência de Dados e Automação.</br>
- ✨ Só gosto da perfeição.</h4> <div align="left"> 
+ ✨ Só gosto da perfeição.
+ 🎓 Formação Estudando em Desenvolvimento de Sistemas
+ 🌍 Idiomas Português (nativo), Inglês (Nível A2->B1)</h4> <div align="left"> 
 
 
   <h3>🧲 Connect me :</h3>
@@ -177,7 +179,6 @@
 
 
 <!-- ending-->
-<a href="https://images.steamusercontent.com/ugc/802114790894531555/045F7A07B4272EF961134A63045A60BCB9A4CEC3/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Fallout GIF" style="width:1920; height:1080"/></a>
 
 <img src="https://f8n-production-collection-assets.imgix.net//0xbec18D6D1758a8620887A378b8b8950B1e6ac328/1/nft.gif?q=70&fnd_key=v1" width="1920" height=0.4/>
 
