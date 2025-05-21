@@ -35,7 +35,7 @@
 </h1>
 <h1 align="center">Hi there!, I'm Miguel Rocha 👋</h1>
 
-<h4 align="left">🌟I'm currently pursuing a Bachelor's degree in Computer Science, actively working on improving my programming skills, and exploring various areas of the IT industry. My academic and personal learning journey is focused on building a solid foundation in software development while actively exploring emerging technologies. I am particularly passionate about Artificial Intelligence and Machine Learning, and I aim to specialize in these fields as a long-term career path.</h4>
+<h4 align="left">🌟 Atualmente, estou terminando meu Ensino Médio e pretendo cursar um  Bacharelado em Ciência da Computação, foco em entrar no mercado de trabalho para  aprimorar minhas habilidades de programação e explorando diversas áreas do setor de TI. Minha jornada acadêmica e pessoal está focada em construir uma base sólida em desenvolvimento de software, enquanto exploro ativamente tecnologias emergentes. Sou particularmente apaixonado por Inteligência Artificial e Aprendizado de Máquina, e pretendo me especializar nessas áreas como uma carreira de longo prazo.</h4>
 
 
  <div align="center">
@@ -57,12 +57,6 @@
        src="https://custom-icon-badges.herokuapp.com/github/followers/miguelrochaxavier?logo=person-add&logoColor=white&label=Followers&style=for-the-badge&color=5e81ac" /></a>
 </div>
 
-
-    
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<img align="right" alt="coding-gif" width="450" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif">
-
-
 <!-- about me -->
  <h3 align="left">💫 About Me</h3>
 
@@ -71,10 +65,10 @@
 <!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <div align="left">-->
 <h4> 
- 🌱 I am currently working on and developing my programming skills.</br>
- 💬 Skills I acquire in programming languages such as Python, SQL, Java </br>
- ⚡ Interest in Science Computation Artifical Intelligence, Machine Learning, Data Science, Automation.</br>
- ✨ I only like perfection.</h4> <div align="left"> 
+ 🌱 Atualmente, estou trabalhando e desenvolvendo minhas habilidades de programação.</br>
+ 💬 Habilidades que adquiri em linguagens de programação como Python, SQL e Java. </br>
+ ⚡ Interesse em Ciência da Computação, Inteligência Artificial, Aprendizado de Máquina, Ciência de Dados e Automação.</br>
+ ✨ Só gosto da perfeição.</h4> <div align="left"> 
 
 
   <h3>🧲 Connect me :</h3>
@@ -122,10 +116,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
-    <img src="https://skillicons.dev/icons?i=c,bash,kali,arch,ubuntu,python,javascript,mysql,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=cpp,cs,vim,java,htmx,debian,neovim,atom,pwsh" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm,intelij" /><br>
+    <img src="https://skillicons.dev/icons?i=c,java,python,javascript,mysql,mongodb,react" /><br>
 </div>
 
 <br/>
@@ -133,7 +125,7 @@
 
 
 
-<!-- top repo and teck stack-->
+<!-- top repo and teck stack
 <div align="center">
   <h3>⭐️ Best Repositories</h3>
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -142,7 +134,7 @@
     <a href="https://github.com/JoshuaThadi/Artificial-Intelligence">
         <img width=380 src="https://github-readme-stats.vercel.app/api/pin/?username=joshuathadi&repo=Artificial-Intelligence&theme=light&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2e3440" />
     </a>
-</div>
+</div>-->
 
   
   <h3>💻 Tech Stack:</h3>
@@ -171,7 +163,7 @@
 
 <!--<h3>⭐ Top Contributed Repo!</h3>
        <br/>
-      <img src="https://github-contributor-stats.vercel.app/api?username=JoshuaThadi&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+      <img src="https://github-contributor-stats.vercel.app/api?username=MiguelRocha&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
       <br/>-->
 
 
