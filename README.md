@@ -40,7 +40,7 @@
 
  <div align="center">
 <!-- Profile Views -->
-<a href="https://github.com/JoshuaThadi" target="_blank">
+<a href="https://github.com/miguelrochaxavier" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=JoshuaThadi&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
        alt="Profile Views Badge" /></a>
 
