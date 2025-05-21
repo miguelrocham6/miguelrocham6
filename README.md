@@ -179,7 +179,7 @@
 <!-- ending-->
 <a href="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/green.gif"><img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="width:auto; height:auto"/></a>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.4/>
+<img src="https://f8n-production-collection-assets.imgix.net//0xbec18D6D1758a8620887A378b8b8950B1e6ac328/1/nft.gif?q=70&fnd_key=v1" width="1920" height=0.4/>
 
 <p>⚠️ This README is uniquely designed by <strong>Miguel Rocha</strong>.
 
