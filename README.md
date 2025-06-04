@@ -1,44 +1,7 @@
-<!--
-<div align="center">
-  <a href="#">
-    <img 
-      width="100%" 
-      src="https://eportfolio.utm.my/artefact/file/download.php?file=712028&view=178568"
-    />
-  </a>
-  <br>
--->
-
-<!--
-<p align="center">
-  <img 
-    src="https://eportfolio.utm.my/artefact/file/download.php?file=712028&view=178568"
-    width="100%" 
-  />
-</p>
--->
-
-
-
-<!-- MasterHead -->
-<div align="center">
-<a href="https://img.gs/czjpqfbdkz/800/https://raw.githubusercontent.com/kpberry/image-to-ascii/8a3fcb63d86ede0e68c916c84e5f0833657b9885/gallery/stvincent_bw.gif">
-  <img src="https://img.gs/czjpqfbdkz/800/https://raw.githubusercontent.com/kpberry/image-to-ascii/8a3fcb63d86ede0e68c916c84e5f0833657b9885/gallery/stvincent_bw.gif" alt="Fallout GIF" style="width:auto; height:auto"/>
-</a>
-</div>
-
-
-
-<!--<h1 align="left">
-<img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello!+👋;+MASTERJUDAH+here+🔥+!;"  alt="Typing Animation" style="width:100%"/>-->
-
 
 <!-- Greeting -->
 </h1>
 <h1 align="center">Hi there!, I'm Miguel Rocha 👋</h1>
-
-<h4 align="left">🌟 Atualmente, estou terminando meu Ensino Médio e pretendo cursar um  Bacharelado em Ciência da Computação, foco em entrar no mercado de trabalho para  aprimorar minhas habilidades de programação e explorando diversas áreas do setor de TI. Minha jornada acadêmica e pessoal está focada em construir uma base sólida em desenvolvimento de software, enquanto exploro ativamente tecnologias emergentes. Sou particularmente apaixonado por Inteligência Artificial e Aprendizado de Máquina, e pretendo me especializar nessas áreas como uma carreira de longo prazo.</h4>
-
 
  <div align="center">
 <!-- Profile Views -->
@@ -52,50 +15,6 @@
 <a href="https://github.com/miguelrochaxavier?tab=repositories&sort=stargazers" target="_blank">
   <img alt="Total Stars" title="Total stars on GitHub"
        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&logoColor=white&label=Stars&style=for-the-badge&color=bf616a&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/miguelrochaxavier" /></a>
-
-<!-- Followers -->
-<a href="https://github.com/miguelrochaxavier?tab=followers" target="_blank">
-  <img alt="Followers" title="Follow me on GitHub"
-       src="https://custom-icon-badges.herokuapp.com/github/followers/miguelrochaxavier?logo=person-add&logoColor=white&label=Followers&style=for-the-badge&color=5e81ac" /></a>
-</div>
-
-<!-- about me -->
- <h3 align="left">💫 About Me</h3>
-
-
-
-<!--<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<div align="left">-->
-<h4> 
- 🌱 Atualmente, estou trabalhando e desenvolvendo minhas habilidades de programação.</br>
- 💬 Habilidades que adquiri em linguagens de programação como Python, SQL e Java. </br>
- ⚡ Interesse em Ciência da Computação, Inteligência Artificial, Aprendizado de Máquina, Ciência de Dados e Automação.</br>
- ✨ Só gosto da perfeição.
- 🎓 Formação Estudando em Desenvolvimento de Sistemas
- 🌍 Idiomas Português (nativo), Inglês (Nível A2->B1)</h4> <div align="left"> 
-
-
-  <h3>🧲 Connect me :</h3>
-<a href="miguellrochaxavier@gmail.com">
-  <img width="60px" src="https://static.vecteezy.com/system/resources/previews/020/964/377/non_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" /></a> 
-  
-  <a href="https://www.linkedin.com/in/miguelrochaxavier" target="_blank">
-    <img width="60px" src="https://cdn-icons-png.freepik.com/256/2496/2496097.png?semt=ais_hybrid" alt="LinkedIn" /></a> 
-    
-
-  <!--<a href="https://joshuathadi.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" /></a>
--->
-</div></h4>
-
-</div>
-<br/>
-
-<!--Experence and experencing
-<h3 align="center">🔆 Work'ed and Wor'king</h3>
-<div align="center" style="display: flex; gap: 10px;">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom1_rounded.png" alt="UOM Logo" width="350" style="border-radius: 10px;">
-    <img src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/hom2_rounded.png" alt="HGS Logo" width="355" style="border-radius: 10px;">
-</div>-->
 
 
 
