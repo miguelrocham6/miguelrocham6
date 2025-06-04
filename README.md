@@ -5,21 +5,13 @@
 
  <div align="center">
 <!-- Profile Views -->
-<a href="https://github.com/miguelrochaxavier" target="_blank">
-  <img src="https://komarev.com/ghpvc/?username=miguelrochaxavier&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white&Color=black" 
-       alt="Profile Views Badge" /></a>
-
-
 
 <!-- Total Stars -->
 <a href="https://github.com/miguelrochaxavier?tab=repositories&sort=stargazers" target="_blank">
   <img alt="Total Stars" title="Total stars on GitHub"
        src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&logoColor=white&label=Stars&style=for-the-badge&color=bf616a&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/miguelrochaxavier" /></a>
 
-
-
 <!-- git stat-->
-<h3 align="center">🌱 Github Status</h3>
 <br>
 <div align="center">
   <img width="435" src="https://github-readme-stats.vercel.app/api?username=MiguelRocha&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
@@ -80,17 +72,6 @@
       <img src="https://github-contributor-stats.vercel.app/api?username=MiguelRocha&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
       <br/>-->
 
-
-
-
-<!-- support -->
-<h3 align="center">Support Me 💰 </h3>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/joshuathadi"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="joshuathadi" /></a>
- <!-- <a href="https://buymeacoffee.com/joshuathadi">
-    <img align="center" width="200px" src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7B42C?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>-->
-</p>
 
 
 <!--<h1 align="center">
