@@ -6,11 +6,6 @@
  <div align="center">
 <!-- Profile Views -->
 
-<!-- Total Stars -->
-<a href="https://github.com/miguelrochaxavier?tab=repositories&sort=stargazers" target="_blank">
-  <img alt="Total Stars" title="Total stars on GitHub"
-       src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&logoColor=white&label=Stars&style=for-the-badge&color=bf616a&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/miguelrochaxavier" /></a>
-
 <!-- git stat-->
 <br>
 <div align="center">
