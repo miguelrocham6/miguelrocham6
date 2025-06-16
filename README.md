@@ -26,7 +26,7 @@ Sou um desenvolvedor full-stack com foco em soluções eficientes, organizadas e
 <table align="center">
   <tr>
     <td>
-      <img alt="Guilherme's GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=miguelrochaxavierLL&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+      <img alt="Miguel Rocha's GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=miguelrochaxavier&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
     </td>
     <td>
       <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelrochaxavier&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
