@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Miguel Rocha
 
-||**Desenvolvedor Java Junior**||
+|**Desenvolvedor Java Junior**|
 
 Sou um desenvolvedor full-stack com foco em soluções eficientes, organizadas e escaláveis. Tenho experiência em **Java**, **React**, **JavaScript**, **HTML**, **CSS** e **Python**. Me destaco pela facilidade em aprender novas tecnologias, atenção aos detalhes e colaboração em equipe. Busco constante evolução profissional, alinhado às melhores práticas do mercado.
 
